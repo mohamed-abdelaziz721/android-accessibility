@@ -65,8 +65,10 @@ public class ContentLabelingFragment extends Fragment {
     private void updateImageButton() {
         if (mPlaying) {
             mPlayPauseToggleImageView.setImageResource(R.drawable.ic_pause);
+            mPlayPauseToggleImageView.setContentDescription(getString(R.string.pause));
         } else {
             mPlayPauseToggleImageView.setImageResource(R.drawable.ic_play_arrow);
+            mPlayPauseToggleImageView.setContentDescription(getString(R.string.play));
         }
     }
 }

@@ -35,5 +35,7 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:background="@null"
+        android:minWidth="@dimen/expand_dimen"
+        android:minHeight="@dimen/expand_dimen"
         android:contentDescription="@null" />
 </RelativeLayout>

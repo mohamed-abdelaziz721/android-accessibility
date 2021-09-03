@@ -31,4 +31,6 @@
     <dimen name="heading">24sp</dimen>
     <dimen name="standard_text">16sp</dimen>
     <dimen name="large_text">20sp</dimen>
+    <dimen name="expand_dimen">48dp</dimen>
+    <dimen name="large_padding">20dp</dimen>
 </resources>

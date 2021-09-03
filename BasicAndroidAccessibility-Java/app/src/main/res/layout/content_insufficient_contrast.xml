@@ -68,7 +68,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
         android:textSize="@dimen/large_text"
-        android:padding="@dimen/standard_padding"
+        android:padding="@dimen/large_padding"
         android:text="@string/fix_low_contrast"/>
 
 </RelativeLayout>
